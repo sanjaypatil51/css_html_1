@@ -1,0 +1,33 @@
+body {
+    background-color:#efeee7;
+    font:Georgia,"Times New Roman",Times,serif;
+    color:#333333;
+    margin: 0;
+    padding: 0;
+    
+}
+header h1 {
+    font:#333333;
+    color:#eee;
+    font-size: 28px;
+}
+h2 {
+    font-size:24px;
+
+}
+.container{
+    width:1024px;
+    text-align: center;
+}
+#main-bio{
+    float:left;
+    width:70%;
+}
+#contcat-info{
+    float:left;
+    width:30%
+}
+#bio-image{
+    float:left;
+    width:200px;
+}
